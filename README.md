@@ -1,4 +1,4 @@
- ![Image Alt](https://media.discordapp.net/attachments/1269639940577169489/1354468782004768909/Untitled_design_3.png?ex=67e566da&is=67e4155a&hm=29285bf3153203908bc06759bad1ecfae2848906113a847cd9e1bd810d506cb7&=&format=webp&quality=lossless&width=963&height=506)
+
  #  🏴‍☠️ Expertise
 🛡️ Red Teamer | Penetration Tester | Cybersecurity Enthusiast<br>
 📌 Red Team Operations – Adversary simulation & threat emulation<br>
